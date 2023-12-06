@@ -12,6 +12,8 @@ This repository focuses on a Convolutional Neural Network (CNN) model for classi
 
 The dataset used for training and evaluation is the [Alzheimer's Disease Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images) available on Kaggle.
 
+Furthermore. the project was done on Google Colab.
+
 ## Dataset
 The Alzheimer's Disease Dataset comprises MRI images of patients categorized into the four classes mentioned above. The dataset's structure includes separate folders for training and testing, each containing subdirectories for different classes. An exploration of the dataset reveals imbalances in the number of samples across classes, a factor considered during model training.
 
